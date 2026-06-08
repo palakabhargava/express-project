@@ -57,4 +57,23 @@ git clone <repository-url>
 cd express-project
 npm install
 npm start
+```
 
+## LEARNING OUTCOMES:
+
+REST API Development
+
+JWT Authentication
+
+Express Middleware
+
+MongoDB Integration
+
+CRUD Operations
+
+Error Handling
+
+
+## Author
+
+Bhargava
