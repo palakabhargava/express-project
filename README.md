@@ -23,10 +23,15 @@ A REST API backend built using Node.js, Express.js, MongoDB, and JWT Authenticat
 ## Project Structure
 
 ├── config
+
 ├── controller
+
 ├── middleware
+
 ├── models
+
 ├── routes
+
 ├── server.js
 
 ## API Endpoints
